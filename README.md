@@ -5,6 +5,13 @@
 Welcome to my portfolio! I bring over 7 years of expertise in analytics, program management, and cross-functional leadership, driving impactful results through strategic planning and data-driven decision-making. Explore my professional journey below.
 
 ---
+## 🔍 About Me
+
+As a data-driven professional, I am passionate about transforming raw data into actionable insights that solve complex business challenges. My career spans roles in data analytics, project management, and technical assistance, where I've consistently delivered measurable results.
+
+I thrive in collaborative environments, leveraging my expertise in Agile and Scrum methodologies to streamline processes and improve operational efficiency. My goal is to lead innovative projects that drive growth and create meaningful impacts.
+
+---
 
 ## 🔍 Objective
 
@@ -64,9 +71,14 @@ Dynamic leader with expertise in analytics, program management, and Agile method
 
 ### **Bonding, Technical Assistance, and Contracting (BTAC) Program**  
 - Streamlined program execution, increasing participant success rates by 15% through analytics and operational improvements.
-
 ### **Betting Big on Small Black Businesses**  
 - Spearheaded initiatives that increased funding access for Black entrepreneurs by 40%.
+### **Equity Assessment in Disaster Management**
+- Collaborated with stakeholders to analyze diversity and equity in Iowa's disaster management plans.
+- Delivered actionable insights that improved plan inclusivity by 25%.
+### **Entrepreneur Mentorship Program**
+- Mentored 20+ entrepreneurs in funding acquisition and business model optimization.
+- Helped clients secure $1M+ in investments and achieve 35% revenue growth.
 
 ---
 
@@ -74,6 +86,13 @@ Dynamic leader with expertise in analytics, program management, and Agile method
 
 - **Umu Igbo Unite Organization (UIU)** – Health & Wellness Committee Member  
 - **National Society of Leadership and Success**  
+
+---
+
+### 🌟 Achievements
+
+- "Peter's data analysis skills revolutionized our reporting processes, improving efficiency by 40%." – Former Manager at JC Lighthouse  
+- Recognized as a top mentor for supporting entrepreneurs in securing funding exceeding $500K.  
 
 ---
 
