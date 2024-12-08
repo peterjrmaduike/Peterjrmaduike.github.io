@@ -103,5 +103,10 @@ Dynamic leader with expertise in analytics, program management, and Agile method
 
 ---
 
-### 🌟 Portfolio URL
-Visit my live portfolio: [https://Peterjrmaduike.github.io](https://Peterjrmaduike.github.io), https://www.kaggle.com/code/petermaduikejr/top-mobile-games-report, https://www.kaggle.com/code/petermaduikejr/nigerian-traffic-project, https://public.tableau.com/views/HRAnalysticsDashboard_17336417811560/HRAnalysticsDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+## 🌟 Portfolio Links
+
+- 🔗 [GitHub Portfolio](https://peterjrmaduike.github.io) – Personal website showcasing my resume, projects, and more.
+- 📊 [Kaggle: Top Mobile Games Report](https://www.kaggle.com/code/petermaduikejr/top-mobile-games-report) – Data analysis and visualization of top mobile game trends.
+- 🚦 [Kaggle: Nigerian Traffic Project](https://www.kaggle.com/code/petermaduikejr/nigerian-traffic-project) – A comprehensive analysis of Nigerian traffic patterns and insights.
+- 📈 [Tableau: HR Analytics Dashboard](https://public.tableau.com/views/HRAnalysticsDashboard_17336417811560/HRAnalysticsDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) – Interactive dashboard analyzing HR performance and workforce metrics.
+
